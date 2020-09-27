@@ -1,5 +1,5 @@
 body{
-    background-color: coral;
+    background-color: rgb(166, 166, 206);
 }
 table {
     border:3px solid #6495ed;
@@ -9,7 +9,7 @@ table {
     }
     thead, tfoot {
     background-color:#D0E3FA;
-    background-image:url(sky.jpg);
+    background-image:url(img/sondage\ 1.jpg);
     border:1px solid #6495ed;
     }
     tbody {
@@ -46,4 +46,20 @@ body{
 caption {
     padding: 10px;
     caption-side: initial;
+}
+#sond{
+    background-image: url("img/71hAo6b3D+L._AC_SY450_.jpg");
+	background-size: cover;
+	background-position: center;
+	color: white;
+	padding: 100px 30px;
+	text-align: center;
+	font-family: "center";
+	text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.5);
+}
+section{
+    background-image: url("img/bonne\ chance.jpg");
+    background-size: cover;
+	
+	color: rgb(11, 194, 20);
 }
