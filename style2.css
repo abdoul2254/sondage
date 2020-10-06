@@ -1,0 +1,16 @@
+#sond{
+    background-image: url("img/71hAo6b3D+L._AC_SY450_.jpg");
+	background-size: cover;
+	background-position: center;
+	color: white;
+	padding: 100px 30px;
+	text-align: center;
+	font-family: "center";
+	text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.5);
+}
+section{
+    background-image: url("img/bonne\ chance.jpg");
+    background-size: cover;
+	
+	color: rgb(11, 194, 20);
+}
